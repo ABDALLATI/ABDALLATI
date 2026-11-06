@@ -25,7 +25,18 @@
 ---
 
 ## 📌 Featured Projects
-> Projects coming soon — stay tuned! 🚧
+
+### 💱 [Currency Converter](https://github.com/ABDALLATI/Currency-Converter)
+A responsive web app that converts currencies in real-time using live exchange rates and Fetch API.
+`HTML` `CSS` `JavaScript` `API`
+
+### 🎨 [Project Three](https://github.com/ABDALLATI/Project-Three)
+A fully responsive webpage built with clean UI, modern CSS layouts, and interactive JavaScript.
+`HTML` `CSS` `JavaScript`
+
+### 🎮 [Word Guessing Game](https://github.com/ABDALLATI/game-guess-word)
+An interactive word guessing game with hints, limited attempts, and keyboard navigation.
+`HTML` `CSS` `JavaScript`
 
 ---
 
