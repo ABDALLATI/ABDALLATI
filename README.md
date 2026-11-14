@@ -40,7 +40,7 @@ An interactive word guessing game with hints, limited attempts, and keyboard nav
 ### 🎮 [To Do List app](https://github.com/ABDALLATI/To-Do-List/)
 
 A responsive To Do List app built with HTML, CSS, and JavaScript, featuring task management, search, filters, Local Storage, and Dark Mode
-
+`HTML` `CSS` `JavaScript`
 ---
 
 ## 📫 Connect with Me
